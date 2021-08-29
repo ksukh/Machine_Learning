@@ -1,2 +1,0 @@
-Loan Repayment Preditction Dataset by Home Credit
-https://www.kaggle.com/c/home-credit-default-risk/data
